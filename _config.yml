@@ -1,15 +1,15 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
-logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+title: Rinzlerlog
+description: "Posts aleatórios, não leve a sério"
+logo_img: "/assets/img/favicon.ico"
+profile_img: "/assets/img/channels4_profile.jpg"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+twitter_username: rinzl03r
+bluesky_username: rinzl03r.bsky.social
+bluesky: rinzl03r.bsky.social
+youtube_username: rinzle3r
+twitch_username: rinzle3r
+backlogged_username: Rinzler
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
